@@ -1,0 +1,248 @@
+{
+  "version": 1,
+  "base_track": "WHEN I MOVE",
+  "base_artist": "KARA",
+  "createdAt": "2025-12-30T15:36:30.957409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "When I Move to Hallelujah Square",
+      "artist": "Dove Brothers",
+      "has_synced": false,
+      "path": "select/01_When_I_Move_to_Hallelujah_Square_Dove_Brothers.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "WHEN I MOVE",
+      "artist": "Kara",
+      "has_synced": true,
+      "path": "select/02_WHEN_I_MOVE_Kara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "WHEN I MOVE",
+      "artist": "카라",
+      "has_synced": true,
+      "path": "select/03_WHEN_I_MOVE_카라.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "WHEN I MOVE",
+      "artist": "KARA",
+      "has_synced": true,
+      "path": "select/04_WHEN_I_MOVE_KARA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "WHEN I MOVE (Japanese version)",
+      "artist": "KARA",
+      "has_synced": true,
+      "path": "select/05_WHEN_I_MOVE_(Japanese_version)_KARA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "When I Move",
+      "artist": "Dag Nasty",
+      "has_synced": false,
+      "path": "select/06_When_I_Move_Dag_Nasty.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When I Move (live acoustic)",
+      "artist": "Dag Nasty",
+      "has_synced": false,
+      "path": "select/07_When_I_Move_(live_acoustic)_Dag_Nasty.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "WHEN I MOVE (Japanese version)",
+      "artist": "KARA",
+      "has_synced": true,
+      "path": "select/08_WHEN_I_MOVE_(Japanese_version)_KARA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "When I Move",
+      "artist": "Kara",
+      "has_synced": true,
+      "path": "select/09_When_I_Move_Kara.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "WHEN I MOVE",
+      "artist": "카라(Kara)",
+      "has_synced": true,
+      "path": "select/10_WHEN_I_MOVE_카라(Kara).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When I Move (Live/Acoustic)",
+      "artist": "Dag Nasty",
+      "has_synced": false,
+      "path": "select/11_When_I_Move_(Live_Acoustic)_Dag_Nasty.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When I Move (live - acoustic)",
+      "artist": "Dag Nasty",
+      "has_synced": false,
+      "path": "select/12_When_I_Move_(live_-_acoustic)_Dag_Nasty.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Broke (When I Realized)",
+      "artist": "Bella White",
+      "has_synced": true,
+      "path": "select/13_Broke_(When_I_Realized)_Bella_White.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It Only Hurts When I Cry",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/14_It_Only_Hurts_When_I_Cry_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It Only Hurts When I Cry (Remastered Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/15_It_Only_Hurts_When_I_Cry_(Remastered_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "It Only Hurts When I Cry (Remastered LP Version)",
+      "artist": "Dwight Yoakam",
+      "has_synced": true,
+      "path": "select/16_It_Only_Hurts_When_I_Cry_(Remastered_LP_Version)_Dwight_Yoakam.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Someday When I Stop Loving You",
+      "artist": "Carrie Underwood",
+      "has_synced": true,
+      "path": "select/17_Someday_When_I_Stop_Loving_You_Carrie_Underwood.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Texas (When I Die)",
+      "artist": "Tanya Tucker",
+      "has_synced": false,
+      "path": "select/18_Texas_(When_I_Die)_Tanya_Tucker.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "That's When I Love You",
+      "artist": "Phil Vassar",
+      "has_synced": true,
+      "path": "select/19_That's_When_I_Love_You_Phil_Vassar.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "That's When I Love You",
+      "artist": "Phil Vassar",
+      "has_synced": false,
+      "path": "select/20_That's_When_I_Love_You_Phil_Vassar.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "When I Call Your Name",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/21_When_I_Call_Your_Name_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "When I Call Your Name (Album Version)",
+      "artist": "Vince Gill",
+      "has_synced": true,
+      "path": "select/22_When_I_Call_Your_Name_(Album_Version)_Vince_Gill.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "When I Close My Eyes",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/23_When_I_Close_My_Eyes_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "When I Get Home",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/24_When_I_Get_Home_Bobby_Bare.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "When I Get Where I'm Going",
+      "artist": "Brad Paisley feat. Dolly Parton",
+      "has_synced": true,
+      "path": "select/25_When_I_Get_Where_I'm_Going_Brad_Paisley_feat._Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "When I Get Where I'm Going (Featuring Dolly Parton)",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/26_When_I_Get_Where_I'm_Going_(Featuring_Dolly_Parton)_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "When I Said I Do",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/27_When_I_Said_I_Do_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "When I Think About Angels",
+      "artist": "Jamie O'Neal",
+      "has_synced": true,
+      "path": "select/28_When_I_Think_About_Angels_Jamie_O'Neal.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "When I Think About Cheatin'",
+      "artist": "Gretchen Wilson",
+      "has_synced": true,
+      "path": "select/29_When_I_Think_About_Cheatin'_Gretchen_Wilson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WHEN I MOVE",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/pl_01_WHEN_I_MOVE_KARA.txt"
+    }
+  ]
+}
